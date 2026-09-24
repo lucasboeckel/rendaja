@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lucasboeckel.github.io/rendaja/sitemap.xml
